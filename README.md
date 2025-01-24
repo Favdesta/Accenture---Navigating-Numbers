@@ -1,8 +1,6 @@
-# Accenture Data Analyst Project Simulation
+#  Accenture Data Analyst Project Simulation
 
-# Social Buzz Data Analysis Project
-
-## Project Overview
+## Social Buzz Data Analysis Project Overview
 
 ### Client Profile
 - **Name:** Social Buzz
